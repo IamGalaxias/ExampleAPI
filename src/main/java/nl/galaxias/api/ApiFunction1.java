@@ -12,6 +12,6 @@ public class ApiFunction1 {
      */
 
     public void function(String args, int number, double another_thing) {
-        // do stuff
+        // do things
     }
 }
